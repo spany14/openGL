@@ -1,0 +1,2 @@
+C:\Users\Hp\source\repos\OpenGL_Tutorials\Debug\OpenGL_Tutorials.exe
+C:\Users\Hp\source\repos\OpenGL_Tutorials\Debug\OpenGL_Tutorials.pdb
